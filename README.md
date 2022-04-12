@@ -4,8 +4,8 @@
 ## 💬 Introduction
 I live on the moon, feel free to visit me there
 
-## 🌱 Skills
-C++, Dlang, Python, Java, Javascript, NodeJS, Object-Pascal, VueJS, C#, 
+## 🌱 Skills Knowledge
+C++, Dlang, Python, Java, Javascript, NodeJS, Object-Pascal, VueJS, C#, ReactJS
 
 ## 🦾 Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=Flaze07&margin-w=15&column=7&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
